@@ -6,6 +6,7 @@ Tietokanta suunniteltu työparin kanssa, verkkosivujen toteutuksen olen tehnyt i
 ER-Kaavio:
 
 SQL LAUSEET:
+
 DROP TABLE Huolto;  
   
 DROP TABLE Henkilökunta;  
@@ -209,7 +210,9 @@ INSERT INTO Laite (Latitude, Longitude, Toimintasäde, Akku, QRkoodi) VA
 ('61.09612', '24.61579','Vaasa', 2, 'https://www.qr-koodit.fi/generaattori'),  
  
 ('64.12600', '23.91279','Vaasa', 100, 'https://www.qr-koodit.fi/generaattori'),  
- 
+ ![er-kaavio-vvv](https://user-images.githubusercontent.com/51053179/134810534-f440b096-aa4c-4029-8c31-cfe34d5618ba.PNG)
+![er-kaavio-vvv](https://user-images.githubusercontent.com/51053179/134810542-2b3e53b6-26b2-4215-840b-0892ddf2031d.PNG)
+
 ('63.20006', '22.42578','Vaasa', 86, 'https://www.qr-koodit.fi/generaattori'),  
  
 ('65.10396', '25.34537','Vaasa', 100, 'https://www.qr-koodit.fi/generaattori'),  
